@@ -20,7 +20,6 @@ Never gonna tell a lie and hurt you
 ## Person B:
 
 Person B should modify content here.
-I wrote about my favorite color :)
 
 ## Person C:
 
