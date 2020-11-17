@@ -24,7 +24,7 @@ I wrote about my favorite color :)
 
 ## Person C:
 
-Person C should modify content here.
+Christabel is person C and has so many secreeeettttttsss. But they're all in a .env so they're safe.
 
 ## Person D:
 
