@@ -9,7 +9,6 @@ Person A should modify content here.
 ## Person B:
 
 Person B should modify content here.
-I wrote about my favorite color :)
 
 ## Person C:
 
