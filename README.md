@@ -16,7 +16,36 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+# A pair (i,j) is called good if nums[i] == nums[j] and i < j.
+
+# Return the number of good pairs.
+
+
+def num_identical_pairs(nums)
+  hash = {}
+  pairs = 0
+
+  nums.each do |num|
+    if hash[num]
+      hash[num] += 1
+    else
+      hash[num] = 1
+    end
+  end
+puts hash
+
+  hash.each do |k, v|
+ 
+      pairs += (v * (v-1)) / (2)
+
+  end
+  return pairs
+end
+
+
+nums = [1,2,3,1,1,3, 3]
+
+puts num_identical_pairs(nums)
 
 ## Person E:
 
